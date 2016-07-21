@@ -2,9 +2,9 @@
 /*
 Plugin Name: Anchor IT
 Plugin URI:
-Description:
-Version: 1.0
-Author: Developer-G0947
+Description: Plugin allow admin to transfrom any word in posts or page into anchor. 
+Version: 1.0.0
+Author: Gurjeet Singh
 Author URI:
 License:
 */
