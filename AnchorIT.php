@@ -94,6 +94,10 @@ class AnchorIT {
 		return get_option( $this->_optionKeylink,true);
 	}
 
+	function test(){
+		echo "This is a test function";
+	}
+
 }//** Class ends here. **//
 
 $anchorIT = new AnchorIT;
